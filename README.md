@@ -1,5 +1,5 @@
 ```markdown
-                                                   **pyscrobble**
+                                                       pyscrobble
 
 pyscrobble is a Python library for interacting with the Last.fm API. It allows you to fetch detailed information about artists, albums, tracks, and users. The library includes rate limiting to avoid exceeding API usage limits and supports various Last.fm endpoints.
 ```
